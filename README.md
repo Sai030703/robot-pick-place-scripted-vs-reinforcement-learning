@@ -86,6 +86,3 @@ The same task, but the cube's position is no longer given directly by the simula
 PyBullet · Gymnasium · Stable-Baselines3 (PPO) · OpenCV · NumPy · Python 3.11
 
 
-```
-
-Each stage folder contains its environment definition, training script, evaluation script, and trained model checkpoint.
