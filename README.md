@@ -83,7 +83,6 @@ The same task, but the cube's position is no longer given directly by the simula
 - Domain randomization (varying friction, mass, cube size during training) would likely improve robustness and is a natural extension
 
 ## Tech stack
-
 PyBullet · Gymnasium · Stable-Baselines3 (PPO) · OpenCV · NumPy · Python 3.11
 
 
